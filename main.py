@@ -517,7 +517,7 @@ else:
   ax.locator_params(nbins = 10)
 
   st.pyplot(fig)
-
+st.markdown("""_Each level corresponds to ~$0-$200 increase/decrease in salary._""")
 
 
 st.header("Final Words")
